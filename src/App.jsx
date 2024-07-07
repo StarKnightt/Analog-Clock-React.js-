@@ -37,7 +37,7 @@ const Clock = () => {
           <div className="min"></div>
           <div className="hr"></div>
           <div className="digital-clock"></div>
-          <a href="https://github.com/StarKnightt" className="github-link" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/StarKnightt/Analog-Clock-React.js-" className="github-link" target="_blank" rel="noopener noreferrer">
           StarKnightt
         </a>
         {/* YOu can add clock numbers here too */}
